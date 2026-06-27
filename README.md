@@ -14,14 +14,11 @@ Traffic is protected using AWS WAF, inspected through AWS Network Firewall, rout
 
 ---
 
-# Architecture
+## Architecture
 
-> **Insert Architecture Diagram Here**
-
-```
-architecture/
-└── architecture-diagram.png
-```
+<p align="center">
+  <img src="architecture/architecture-diagram.png" alt="AWS Enterprise Hub-and-Spoke Architecture" width="100%">
+</p>
 
 ---
 
