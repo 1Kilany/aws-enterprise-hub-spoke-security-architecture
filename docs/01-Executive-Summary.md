@@ -245,7 +245,7 @@ The project demonstrates:
 
 ## Figure 1 – High-Level Architecture
 
-> Insert: `architecture/architecture-diagram.png`
+> Insert: architecture/architecture-diagram.png
 
 ---
 
