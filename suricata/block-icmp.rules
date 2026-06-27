@@ -1,0 +1,5 @@
+drop icmp 10.1.1.0/24 any -> 10.1.2.0/24 any (
+msg:"Block ICMP";
+sid:1000001;
+rev:1;
+)
